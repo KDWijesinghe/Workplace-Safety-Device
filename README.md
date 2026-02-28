@@ -71,6 +71,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 
 <img src="Images/System_Algorithm_Flowchart.png" width="500"/>
+
 ---
 
 ## Technical Specifications
