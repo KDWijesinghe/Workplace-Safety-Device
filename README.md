@@ -70,7 +70,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 4. User can cancel false alerts with the tactile switch
 
 
-<img src="Images/System_Algorithm_Flowchart.png" width="500"/>
+<img src="Images/System_Algorithm_Flowchart.png" width="450"/>
 
 ---
 
