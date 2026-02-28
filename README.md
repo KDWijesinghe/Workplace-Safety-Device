@@ -1,5 +1,5 @@
 # HyperTronics – Workplace Safety Device
-<img src="Images/Final_Product.jpg" width="250"/>
+<img src="Images/Final_Product.png" width="250"/>
 
 **EN1190: Engineering Design Project**  
 Faculty of Engineering, [University of Moratuwa](https://www.mrt.ac.lk)
