@@ -110,7 +110,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 |------|------|
 | Upekshani T.S. | Enclosure Design |
 | Wijesekara W.A.G.S. | PCB Layout & Design |
-| Wijesinghe U.G.S.K.D. | Prototyping & STM32 Programming |
+| Wijesinghe U.G.S.K.D. | STM32 Programming |
 
 ---
 
