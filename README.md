@@ -108,7 +108,6 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 | Name | Role |
 |------|------|
-| Bandara W.D.A.C. | Enclosure Design |
 | Upekshani T.S. | Enclosure Design |
 | Wijesekara W.A.G.S. | PCB Layout & Design |
 | Wijesinghe U.G.S.K.D. | Prototyping & STM32 Programming |
