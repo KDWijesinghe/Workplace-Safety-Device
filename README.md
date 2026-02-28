@@ -27,7 +27,7 @@ Mining remains one of the most hazardous industries in Sri Lanka. Workers are ex
 - Limited communication  
 - Delayed emergency response  
 
-Existing solutions are often expensive, non-portable, or dependent on internet connectivity.
+Existing solutions are often expensive, non-portable or dependent on internet connectivity.
 
 ---
 
@@ -52,7 +52,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 |-----------|---------|
 | STM32F411 Microcontroller | Processes sensor data, controls alerts and GPS/GPRS module |
 | MPU-6050 Accelerometer | Detects sudden falls |
-| MQ-5 Gas Sensor | Detects hazardous gases such as methane, LPG, and butane |
+| MQ-5 Gas Sensor | Detects hazardous gases such as methane, LPG and butane |
 | GPS/GPRS Module | Sends SMS alerts with live location |
 | 3.7V 1600mAh LiPo Battery | Power supply with TP4056 charging module |
 | TPS61022 Boost Converter | Stable power regulation |
@@ -65,7 +65,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 1. Sensors continuously monitor motion and gas levels  
 2. STM32 processes signals using threshold algorithms  
 3. If a fall or hazard is detected:
-   - Buzzer & LED activate locally  
+   - Buzzer and LED activate locally  
    - SMS alert sent with GPS location  
 4. User can cancel false alerts with the tactile switch
 
@@ -97,7 +97,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 ## Future Improvements
 
-- Integration of an Oxygen (O₂) sensor  
+- Integration of an Oxygen(O₂) sensor  
 - Improved gas calibration algorithms  
 - Extended battery optimization  
 - IoT dashboard integration for remote monitoring  
@@ -119,8 +119,8 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 - Pilot deployment in small and medium-scale mining sites  
 - Direct collaboration with mining officers  
-- Target: Sri Lankan mining & construction sectors  
-- Planned product website with demo, pricing, and contact info  
+- Target: Sri Lankan mining and construction sectors  
+- Planned product website with demo, pricing and contact info  
 
 ---
 
