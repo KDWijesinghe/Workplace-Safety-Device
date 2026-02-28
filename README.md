@@ -58,6 +58,8 @@ This ensures **immediate detection** and **rapid emergency response**.
 | TPS61022 Boost Converter | Stable power regulation |
 | Buzzer & LED Indicators | Immediate local alert signaling |
 
+---
+
 ### How It Works
 
 1. Sensors continuously monitor motion and gas levels  
