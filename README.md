@@ -1,5 +1,5 @@
 # HyperTronics – Workplace Safety Device
-<img src="Images/Final_Product.jpg" width="200"/>
+<img src="Images/Final_Product.jpg" width="250"/>
 
 **EN1190: Engineering Design Project**  
 Faculty of Engineering, [University of Moratuwa](https://www.mrt.ac.lk)
@@ -68,7 +68,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 4. User can cancel false alerts with the tactile switch
 
 
-<img src="Images/System_Algorithm_Flowchart.png" width="200"/>
+<img src="Images/System_Algorithm_Flowchart.png" width="500"/>
 ---
 
 ## Technical Specifications
