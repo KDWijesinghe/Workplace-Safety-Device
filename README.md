@@ -4,7 +4,7 @@
 **EN1190: Engineering Design Project**  
 Faculty of Engineering, [University of Moratuwa](https://www.mrt.ac.lk)
 
----
+
 
 ## Overview
 
@@ -16,7 +16,7 @@ HyperTronics is a **wearable workplace safety device** designed to improve worke
 
 This solution is lightweight, battery-powered, and portable, specifically designed for mining sites in Sri Lanka with limited internet connectivity.
 
----
+
 
 ## Problem Statement
 
@@ -29,7 +29,7 @@ Mining remains one of the most hazardous industries in Sri Lanka. Workers are ex
 
 Existing solutions are often expensive, non-portable or dependent on internet connectivity.
 
----
+
 
 ## Solution
 
@@ -42,7 +42,7 @@ Our wearable device:
 
 This ensures **immediate detection** and **rapid emergency response**.
 
----
+
 
 ## System Architecture
 
@@ -58,7 +58,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 | TPS61022 Boost Converter | Stable power regulation |
 | Buzzer & LED Indicators | Immediate local alert signaling |
 
----
+
 
 ### How It Works
 
@@ -72,7 +72,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 <img src="Images/System_Algorithm_Flowchart.png" width="450"/>
 
----
+
 
 ## Technical Specifications
 
@@ -84,7 +84,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 - **Enclosure Material:** 3D printed PETG  
 - **Power Consumption:** ~247 mW average  
 
----
+
 
 ## Product Cost
 
@@ -93,7 +93,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 - **Profit Margin (20%):** Rs. 1,773.15  
 - **Final Selling Price:** Rs. 10,640/unit  
 
----
+
 
 ## Future Improvements
 
@@ -102,7 +102,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 - Extended battery optimization  
 - IoT dashboard integration for remote monitoring  
 
----
+
 
 ## Team Members
 
@@ -112,7 +112,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 | Wijesekara W.A.G.S. | PCB Layout & Design |
 | Wijesinghe U.G.S.K.D. | STM32 Programming |
 
----
+
 
 ## Market Strategy
 
@@ -121,7 +121,7 @@ This ensures **immediate detection** and **rapid emergency response**.
 - Target: Sri Lankan mining and construction sectors  
 - Planned product website with demo, pricing and contact info  
 
----
+
 
 ## Conclusion
 
