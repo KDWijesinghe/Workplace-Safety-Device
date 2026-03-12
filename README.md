@@ -1,4 +1,4 @@
-# HyperTronics – Workplace Safety Device
+# Workplace Safety Device by HyperTronics
 <img src="Images/Final_Product.png" width="250"/>
 
 **EN1190: Engineering Design Project**  
